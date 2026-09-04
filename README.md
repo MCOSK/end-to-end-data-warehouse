@@ -54,10 +54,10 @@ This insights empower stakeholders with key business metrics, enabling strategic
 
 ---
 
-## 📁 Project Directory Structure
+##  Project Directory Structure
 
 ```text
-data-warehouse-project/
+end-to-end-data-warehouse-project/
 │
 ├── datasets/                     # Raw datasets used for the project (ERP and CRM data)
 │
